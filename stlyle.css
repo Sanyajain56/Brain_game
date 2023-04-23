@@ -20,6 +20,13 @@ body{
     height: 100vh;
     background-color: var(--bg-main);
 }
+@media screen  and (max-width: 800px) {
+    body{
+    gap: 3rem;
+    }
+
+}
+
 h1{
     color:white ;
     font-family: "Lexend Deca Light";
