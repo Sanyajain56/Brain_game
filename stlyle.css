@@ -22,7 +22,7 @@ body{
 }
 @media screen  and (max-width: 800px) {
     body{
-    gap: 3rem;
+    gap: 4rem;
     }
 
 }
@@ -52,7 +52,7 @@ span{
     #card-section{
         display: grid;
         grid-template-columns: repeat(4,1fr);
-        grid-gap: 0rem;
+        grid-gap: 1rem;
 }
 } 
 
