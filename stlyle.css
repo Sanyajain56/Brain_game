@@ -41,7 +41,13 @@ span{
     transform-style: preserve-3d;
     cursor: pointer;
 }
-
+ @media screen  and (max-width: 800px) {
+    #card-section{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 0.5rem;
+}
+} 
 
 .card,
 .back-card,
@@ -49,6 +55,14 @@ span{
     height: 5rem;
     width: 5rem;
 }
+ @media screen  and (max-width: 800px) {
+    .card,
+    .back-card,
+    .fornt-card {
+        height: 4rem;
+        width: 4rem;
+    }
+} 
 
 .back-card,
 .fornt-card{
