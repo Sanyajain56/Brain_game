@@ -22,7 +22,8 @@ body{
 }
 @media screen  and (max-width: 800px) {
     body{
-    gap: 4rem;
+       
+    gap: 2rem;
     }
 
 }
@@ -32,6 +33,14 @@ h1{
     font-family: "Lexend Deca Light";
     font-size: 3rem;
 }
+@media screen  and (max-width: 800px) {
+    h1{
+        font-size: 2.2rem;
+}
+
+    }
+
+
 span{
     color: var(--border-color);
 }
@@ -50,6 +59,8 @@ span{
 }
  @media screen  and (max-width: 800px) {
     #card-section{
+        position: relative;
+        right: 2.3%;
         display: grid;
         grid-template-columns: repeat(4,1fr);
         grid-gap: 1rem;
@@ -66,8 +77,8 @@ span{
     .card,
     .back-card,
     .fornt-card {
-        height: 3rem;
-        width: 3rem;
+        height: 3.8rem;
+        width: 3.8rem;
     }
 } 
 
