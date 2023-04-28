@@ -1,30 +1,30 @@
 let cardArray = [
     {
     'name': "CSS",
-    'img': "https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo",
+    'img': "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dairy-ice-cream-e127d41.jpg?quality=90&webp=true&resize=440,400",
     },
 
     {
         'name': "HTMl",
-        'img': 'https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn',
+        'img': 'https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
         },
 
         {
             'name': "jQuery",
-            'img': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_Rcy7RQNzkn3K_g8Pvj9V-kISlFBQFhU86cjW1tQ5AnZb4TUn8MC4wCmrIgzq1SPV1A&usqp=CAU',
+            'img': 'https://images.unsplash.com/photo-1639744091981-2f826321fae6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80',
             },
 
             {
                 'name': "js",
-                'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png',
+                'img': 'https://rumkisgoldenspoon.com/wp-content/uploads/2021/02/Dal-makhani-ki-recipe.jpg',
                 },
                 {
                     'name': "node",
-                    'img': 'https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png',
+                    'img': 'https://images.unsplash.com/photo-1561651823-34feb02250e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=554&q=80',
                     },
        {
                         'name': "python",
-                        'img': "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+                        'img': "https://images.unsplash.com/photo-1582234372722-50d7ccc30ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
                         }
 ];
 
